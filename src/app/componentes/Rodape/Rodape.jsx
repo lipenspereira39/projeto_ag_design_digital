@@ -1,6 +1,6 @@
 import estilos from './Rodape.module.css';
 import Image from 'next/image';
-import Logo from '/public/logo2.png';
+import Logo from '/public/Logo2.PNG';
 import iconeFacebook from '/public/facebook.png';
 import iconeTwitter from '/public/twitter.png';
 import iconeLinkedin from '/public/linkedin.png';
